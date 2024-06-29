@@ -397,7 +397,7 @@ function HomepageV3() {
                 </div>
                 </div>
 
-                <div className="flex-1 items-start flex">
+                <div className="flex-1 items-start flex justify-between">
 
                 <div>
                   <div className="flex-auto my-auto">Metaplex Docs</div>
