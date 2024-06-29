@@ -383,7 +383,7 @@ function HomepageV3() {
               Read the documentation for Solana and popular tools1.
             </p>
             <div className="flex justify-between gap-5 mt-12 w-full text-3xl leading-8 text-white max-md:flex-wrap max-md:mt-10 max-md:max-w-full">
-                <div>
+                <div className="flex-1 items-start flex">
                 <div className="flex-auto self-start">Solana Docs</div>
                 <div className="flex gap-5">
                   <motion.img
@@ -399,7 +399,7 @@ function HomepageV3() {
 
                 <div>
 
-                <div>
+                <div className="flex-1 items-start flex">
                   <div className="flex-auto my-auto">Metaplex Docs</div>
                 </div>
                 <motion.img
